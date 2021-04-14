@@ -71,6 +71,6 @@ function play(clickedId) {
  
 
 function reset(){
-    document.getElementById('game').reset();
+    document.getElementById('form').reset();
     }
 
